@@ -69,7 +69,7 @@
 <br />
 <br />
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
 
 
 
