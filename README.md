@@ -1,5 +1,6 @@
 # Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
 ![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
+<hr/>
 <br />
 <br />
 
@@ -59,8 +60,11 @@
 
 <br />
 ## ⭐ Thanks for the visit!
+<br />
+<br />
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br />
+<br /> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
 
 
