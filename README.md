@@ -2,9 +2,7 @@
 ![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
 <br />
 <br />
-<a href="https://app.daily.dev/ayushkanduri">
-  <img src="https://github.com/Ayush-Kanduri/Ayush-Kanduri/blob/master/devcard.svg" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
-</a>
+
 
 ### Hi, I'm Saurabh Dixit a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!
 - 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.
