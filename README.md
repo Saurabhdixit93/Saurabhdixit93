@@ -71,6 +71,7 @@
 ![68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c](https://user-images.githubusercontent.com/86460997/213244317-fe2a6f73-4632-4dbe-be36-c762ea9b69e2.svg)
 
 <br />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
 
 
