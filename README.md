@@ -21,7 +21,7 @@
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/smartds2550)
 
 
-<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://github.com/Saurabhdixit93)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://github.com/Saurabhdixit93) </span>
+<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://saurabhdixit93.github.io/.com/)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://saurabhdixit93.github.io/.com/) </span>
 
 <br />
 
